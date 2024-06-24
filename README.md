@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### **Soft skills:***
+
+### **Hard skills:**
+
+### **My pet-projects**
+
+
 <!--
 **RomanVerkhovsky/RomanVerkhovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
