@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### **Soft skills:***
+### **Soft skills:**
 
 ### **Hard skills:**
 
