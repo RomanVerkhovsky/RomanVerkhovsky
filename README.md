@@ -4,7 +4,11 @@
 
 ### **Hard skills:**
 
-### **My pet-projects**
+### **My pet-projects:**
+
+#### [Console app for log files](https://github.com/RomanVerkhovsky/Console_app_for_log_files)
+#### [Snake](https://github.com/RomanVerkhovsky/Snake)
+
 
 
 <!--
