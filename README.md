@@ -14,10 +14,10 @@
 ### **My pet-projects:**
 
 #### [Console app for log files](https://github.com/RomanVerkhovsky/Console_app_for_log_files)
-![snake_menu](https://github.com/user-attachments/assets/8081f851-d3c0-40ab-bbe3-d31da795c2a9)
-![snake_game](https://github.com/user-attachments/assets/4401a198-e84a-4ffd-a376-3fcd1ce9c99f)
-
 #### [Snake](https://github.com/RomanVerkhovsky/Snake)
+![snake_menu](https://github.com/user-attachments/assets/72061a59-a791-4957-b18c-fe1a460881cb)
+![snake_game](https://github.com/user-attachments/assets/210442ad-f402-4dd9-a454-1961e1819b9e)
+
 
 
 
