@@ -3,6 +3,12 @@
 ### **Soft skills:**
 
 ### **Hard skills:**
+- Python
+- MySQL
+- Git/Github
+- HTML, CSS
+- XML, Markdown
+- Flask
 
 ### **My pet-projects:**
 
