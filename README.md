@@ -5,6 +5,7 @@
 ### **Hard skills:**
 - Python
 - MySQL
+
 - Git/Github
 - HTML, CSS
 - XML, Markdown
@@ -13,6 +14,9 @@
 ### **My pet-projects:**
 
 #### [Console app for log files](https://github.com/RomanVerkhovsky/Console_app_for_log_files)
+![snake_menu](https://github.com/user-attachments/assets/8081f851-d3c0-40ab-bbe3-d31da795c2a9)
+![snake_game](https://github.com/user-attachments/assets/4401a198-e84a-4ffd-a376-3fcd1ce9c99f)
+
 #### [Snake](https://github.com/RomanVerkhovsky/Snake)
 
 
